@@ -1,0 +1,23 @@
+{
+    "companyName": "Every'sMart",
+    "ownerName": "Tharun",
+    "rollNo" : "RA2211032010006" ,
+    "ownerEmail" : "ts5376@srmist.edu.in" ,
+    "accessCode" : "SUfGJv"
+}
+
+{
+    "companyName":"Every'sMart",
+    "clientID":"380e3e0c-16a8-4f02-8379-4b14e2bd5b94",
+    "clientSecret":"QOfrSxhKjqkqbfcr",
+    "ownerName":"Tharun",
+    "ownerEmail":"ts5376@srmist.edu.in",
+    "rollNo":"RA2211032010006"
+}
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQyNDc3NTY1LCJpYXQiOjE3NDI0NzcyNjUsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImZkNTJlOTBiLWY2NWUtNDYxMi04MGI2LWY2ZjRiYzMxNjA1OSIsInN1YiI6InRoYXIyNnVuQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6IkV2ZXJ5J3NNYXJ0IiwiY2xpZW50SUQiOiJmZDUyZTkwYi1mNjVlLTQ2MTItODBiNi1mNmY0YmMzMTYwNTkiLCJjbGllbnRTZWNyZXQiOiJuWmpXSVNSWWphVlViYXBPIiwib3duZXJOYW1lIjoiVGhhcnVuIiwib3duZXJFbWFpbCI6InRoYXIyNnVuQGdtYWlsLmNvbSIsInJvbGxObyI6IlJBMjIxMTAzMjAxMDAwNiJ9.qKzb3L3clnBYP-wa883vxPatJBisY2m_UKdSk5SG3f8",
+    "expires_in": 1742477565
+}
